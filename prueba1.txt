@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 withñoira jgqoeçrjgá<jq
+=======
+pruebamax2
+>>>>>>> 97b58bf145bccbf57987e4591944a3264f7bd699
